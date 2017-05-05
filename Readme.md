@@ -11,8 +11,8 @@
 - **门票** 150 元。
 - **交通** 
 - **景色**
-  - ![image](Pictures\Baishishan\01.jpg)
-  - ![image](Pictures\Baishishan\02.jpg)
-  - ![image](Pictures\Baishishan\03.jpg)
-  - ![image](Pictures\Baishishan\04.jpg)
-  - ![image](Pictures\Baishishan\05.jpg)
+  - ![image](Pictures/Baishishan/01.jpg)
+  - ![image](Pictures/Baishishan/02.jpg)
+  - ![image](Pictures/Baishishan/03.jpg)
+  - ![image](Pictures/Baishishan/04.jpg)
+  - ![image](Pictures/Baishishan/05.jpg)
