@@ -10,11 +10,11 @@
 
 保定驴肉火烧：
 
-![image](Pictures/Food/Lvrouhuoshao1.png)
+![image](Pictures/Food/Lvrouhuoshao1.jpg)
 
 河间驴肉火烧：
 
-![image](Pictures/Food/Lvrouhuoshao2.png)
+![image](Pictures/Food/Lvrouhuoshao2.jpg)
 
 推荐各个地方的版本都试试。
 
@@ -24,33 +24,33 @@
 
 白家罩饼是保定名吃。白家罩饼选料讲究，选用内蒙古黄牛肉的中肋和牛腱子两部，做工精细、火候恰当、肥而不腻、清香扑鼻、老少皆宜。
 
-![image](Pictures/Food/Baijiazhaobing1.png)
+![image](Pictures/Food/Baijiazhaobing1.jpg)
 
-![image](Pictures/Food/Baijiazhaobing2.png)
+![image](Pictures/Food/Baijiazhaobing2.jpg)
 
 ### 白肉罩火烧
 
 白肉罩火烧，是河北保定的地方名吃之一，起源于清末，在中华旅行社出版的《中华小吃》中，它赫然醒目。它还是保定名楼义春楼的主要名吃之一。它的制作工艺精湛，挑选新鲜的猪肉，经反复冲洗熬制，并将煮熟的肉片切成薄片，再配以撕成彩云状的火烧，用开过头汤反复浇制而成。它的吃法讲究三吃六味，即以白肉罩火烧配合不同的辅料，便可以吃出不同的风味来，真是让人回味无穷。它的营养价值更是值得一提，既含有丰富的蛋白质，又不含过多的脂肪，白肉罩火烧真是又解馋又健康的食品。
 
-![image](Pictures/Food/Bairouzhaohuoshao1.png)
+![image](Pictures/Food/Bairouzhaohuoshao1.jpg)
 
-![image](Pictures/Food/Bairouzhaohuoshao2.png)
+![image](Pictures/Food/Bairouzhaohuoshao2.jpg)
 
 ### 槐茂酱菜
 
 槐茂酱菜是河北保定传统的特色名菜，其酱菜历史悠久，酱菜工艺制作精良，品种丰富。槐茂酱菜开业于公元1671年（清康熙10年），至今已有三百多年的历史。2005年，由中华人民共和国商务部授予“中华老字号”荣誉称号。
 
-![image](Pictures/Food/Huaimaojiangcai1.png)
+![image](Pictures/Food/Huaimaojiangcai1.jpg)
 
-![image](Pictures/Food/Huaimaojiangcai2.png)
+![image](Pictures/Food/Huaimaojiangcai2.jpg)
 
 ### 白运章包子
 
 白运章包子是以肥瘦相间的新鲜牛肉、时令蔬菜为馅料，包子皮是用发面和烫面按一定比例制成。包子的特点是皮薄有筋道，肉馅鲜香，回味无穷。
 
-![image](Pictures/Food/Baiyunzhangbaozi1.png)
+![image](Pictures/Food/Baiyunzhangbaozi1.jpg)
 
-![image](Pictures/Food/Baiyunzhangbaozi2.png)
+![image](Pictures/Food/Baiyunzhangbaozi2.jpg)
 
 ## 玩乐篇
 
