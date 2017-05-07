@@ -108,23 +108,141 @@
 - **景色**
 
   ![image](Pictures/Baoduzhai/01.jpg)
+
   ![image](Pictures/Baoduzhai/02.jpg)
+
   ![image](Pictures/Baoduzhai/03.jpg)
+
   ![image](Pictures/Baoduzhai/04.jpg)
+
   ![image](Pictures/Baoduzhai/05.jpg)
+
   ![image](Pictures/Baoduzhai/06.jpg)
+
   ![image](Pictures/Baoduzhai/07.jpg)
+
   ![image](Pictures/Baoduzhai/08.jpg)
+
   ![image](Pictures/Baoduzhai/09.jpg)
+
   ![image](Pictures/Baoduzhai/10.jpg)
+
   ![image](Pictures/Baoduzhai/11.jpg)
+
   ![image](Pictures/Baoduzhai/12.jpg)
+
   ![image](Pictures/Baoduzhai/13.jpg)
+
   ![image](Pictures/Baoduzhai/14.jpg)
+
   ![image](Pictures/Baoduzhai/15.jpg)
+
   ![image](Pictures/Baoduzhai/16.jpg)
+
   ![image](Pictures/Baoduzhai/17.jpg)
 
+
+### 直隶总督府/保定直隶总督署博物馆
+
+- **简介**
+
+  直隶总督署，又称直隶总督部院，是中国一所保存完整的清代省级衙署。原建筑始建于元，明初为保定府衙，明永乐年间改做大宁都司署，清初又改作参将署。1730年（清雍正八年）经过大规模的扩建后正式建立总督署，历经雍正、乾隆、嘉庆、道光、咸丰、同治、光绪、宣统八帝，可谓是清王朝历史的缩影，曾驻此署的直隶总督共59人66任，如曾国藩、李鸿章、袁世凯、方观承等直到1909年清朝末代皇帝逊位才废止。民国年间是直系军阀曹锟的大本营。抗日战争和解放战争期间，曾是日伪和国民党河北省政府所在地，有“一座总督衙署，半部清史写照”之称。中华人民共和国建立后，河北省人民政府也曾驻此。1988年1月被国务院公布为第三批全国重点文物保护单位。
+
+- **类别**
+
+  博物馆。
+
+- **门票**
+
+  20元。
+
+- **交通**
+
+  12分钟，2.4公里，途经：建华大街、裕华西路。
+
+  ![image](Pictures/Zhilizongdufu/Map.png)
+
+- **景色**
+
+  ![image](Pictures/Zhilizongdufu/01.jpg)
+
+  ![image](Pictures/Zhilizongdufu/02.jpg)
+
+  ![image](Pictures/Zhilizongdufu/03.jpg)
+
+  ![image](Pictures/Zhilizongdufu/04.jpg)
+
+  ![image](Pictures/Zhilizongdufu/05.jpg)
+
+  ![image](Pictures/Zhilizongdufu/06.jpg)
+
+  ![image](Pictures/Zhilizongdufu/07.jpg)
+
+  ![image](Pictures/Zhilizongdufu/08.jpg)
+
+  ![image](Pictures/Zhilizongdufu/09.jpg)
+
+  ![image](Pictures/Zhilizongdufu/10.jpg)
+
+  ![image](Pictures/Zhilizongdufu/11.jpg)
+
+  ![image](Pictures/Zhilizongdufu/12.jpg)
+
+### 正定古城
+
+- **简介**
+
+  正定古城位于河北省会石家庄市北15公里处，是按照中华传统规划思想和建筑风格建设起来的城市，集中体现了公元5世纪至19世纪前后中国的历史文化特色， 是古代劳动人民的聪明才智和坚强毅力的结晶。历史上曾与保定、北京并称为“北方三雄镇”，至今南城门还嵌有“三关雄镇”的石额，正定是三国名将赵子龙的家乡。
+
+- **类别**
+
+  古建筑。
+
+- **门票**
+
+  不是通票，隆兴寺30元，荣国府15元，赵云庙20元，开元寺10元，广惠寺华塔10元，临济寺澄灵塔5元。
+
+- **交通**
+
+  从保定市出发，1小时39分钟，124.9公里，途经：京港澳高速、新元高速。
+
+  ![image](Pictures/Zhengdinggucheng/Map1.png)
+
+  从石家庄市出发，37分钟，16.2公里，途经：体育北大街、成德南街。
+
+  ![image](Pictures/Zhengdinggucheng/Map1.png)
+
+- **景色**
+
+  ![image](Pictures/Zhengdinggucheng/01.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/02.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/03.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/04.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/05.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/06.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/07.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/08.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/09.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/10.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/11.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/12.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/13.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/14.jpg)
+
+  ![image](Pictures/Zhengdinggucheng/15.jpg)
 
 ### 新景点
 
@@ -133,3 +251,4 @@
 - **门票**
 - **交通**
 - **景色**
+
