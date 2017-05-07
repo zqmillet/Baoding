@@ -79,6 +79,53 @@
 
   ![image](Pictures/Baiyangdian/10.jpg)
 
+### 抱犊寨风景区(南天门在此)
+
+- **简介**
+
+  抱犊山，旧名萆山， 抱犊寨不是一个村庄，而是一座名山的名称。它位于鹿泉区境内，东距省会石家庄仅16公里，是一处集自然景观与人文景观于一地的旅游景区。2001年11月，抱犊寨景区被国家旅游局评定为“4A”级景区。
+
+  抱犊寨属于 国家4A级景区抱犊寨是一处集历史人文和自然风光为一体的名山古寨。海拔580米，四周悬崖绝壁，顶部平旷坦夷，有肥沃良田660亩，土层深达66米。曾是汉淮阴侯韩信“背水一战”的古战场，亦是著名道人张三丰成道涉足之福地，其风光奇异独特，景色宜人，被誉为“天堂之幻觉，人间之福地，兵家之战场，世外之桃花源”的天下奇寨。
+
+- **类别**
+
+  山峰。
+
+- **门票**
+
+  50元。
+
+- **交通**
+
+  从保定出发，2小时2分钟，155.4公里，途经：京港澳高速、新元高速。
+
+  ![image](Pictures/Baoduzhai/Map1.png)
+
+  从石家庄出发，1小时，23.2公里，途经：新华路、龙泉东路。
+
+  ![image](Pictures/Baoduzhai/Map2.png)
+
+- **景色**
+
+  ![image](Pictures/Baoduzhai/01.jpg)
+  ![image](Pictures/Baoduzhai/02.jpg)
+  ![image](Pictures/Baoduzhai/03.jpg)
+  ![image](Pictures/Baoduzhai/04.jpg)
+  ![image](Pictures/Baoduzhai/05.jpg)
+  ![image](Pictures/Baoduzhai/06.jpg)
+  ![image](Pictures/Baoduzhai/07.jpg)
+  ![image](Pictures/Baoduzhai/08.jpg)
+  ![image](Pictures/Baoduzhai/09.jpg)
+  ![image](Pictures/Baoduzhai/10.jpg)
+  ![image](Pictures/Baoduzhai/11.jpg)
+  ![image](Pictures/Baoduzhai/12.jpg)
+  ![image](Pictures/Baoduzhai/13.jpg)
+  ![image](Pictures/Baoduzhai/14.jpg)
+  ![image](Pictures/Baoduzhai/15.jpg)
+  ![image](Pictures/Baoduzhai/16.jpg)
+  ![image](Pictures/Baoduzhai/17.jpg)
+
+
 ### 新景点
 
 - **简介**
@@ -86,4 +133,3 @@
 - **门票**
 - **交通**
 - **景色**
-
