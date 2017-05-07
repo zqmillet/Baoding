@@ -244,6 +244,154 @@
 
   ![image](Pictures/Zhengdinggucheng/15.jpg)
 
+### 赵州桥(小学课文里的)
+
+- **简介**
+
+  赵州桥又称安济桥，坐落在河北省赵县的洨河上，横跨在37米多宽的河面上，因桥体全部用石料建成，当地称做“大石桥”。建于隋朝年间公元595年－605年，由著名匠师李春设计建造，距今已有1400多年的历史，是当今世界上现存第二早（还有一座小商桥）、保存最完整的古代单孔敞肩石拱桥。赵州桥凝聚了古代劳动人民的智慧与结晶，开创了中国桥梁建造的崭新局面。约1397年（也有些资料为大约700年）后，欧洲才建成类似的石拱桥。
+
+- **类别**
+
+  古建筑。
+
+- **门票**
+
+  40元。
+
+- **交通**
+
+  从石家庄市出发，1小时14分钟，45.0公里，途经：青石线、安济大道。
+
+  ![image](Pictures/Zhaozhouqiao/Map.png)
+
+  从保定出发更远，172.1公里，不推荐来赵州桥。
+
+- **景色**
+
+  ![image](Pictures/Zhaozhouqiao/01.jpg)
+
+  ![image](Pictures/Zhaozhouqiao/02.jpg)
+
+  ![image](Pictures/Zhaozhouqiao/03.jpg)
+
+  ![image](Pictures/Zhaozhouqiao/04.jpg)
+
+  ![image](Pictures/Zhaozhouqiao/05.jpg)
+
+  ![image](Pictures/Zhaozhouqiao/06.jpg)
+
+  ![image](Pictures/Zhaozhouqiao/07.jpg)
+
+  ![image](Pictures/Zhaozhouqiao/08.jpg)
+
+### 柏林禅寺
+
+- **简介**
+
+  中国著名佛教禅寺，北方佛教的一座重镇，赵州祖庭所在地，内设河北省佛学院、河北禅学研究所，现任方丈为明海禅师，常住僧众有 160 余人。坐落于河北省赵县县城（古称赵州）东南角，与天下第一桥——赵州桥遥遥相望。 全寺主殿普光明殿占地435平方米，为木结构单檐宫殿式建筑，上覆以黄琉璃瓦，气势雄伟。殿内供奉着高3米、重达10吨、用大理石雕造而成的释迦佛坐像和其他神佛雕像。普光明殿通过一条约7米宽、100米长的石板路与山门相连，路两旁设置了六对仿唐石灯幢，植有近万平方米的草坪，新栽的300余株柏树与十几株历尽沧桑的千年古柏交相辉映。一进山门，就踏入清净佛地，与山门外的尘俗世界形成鲜明对照。
+
+- **类别**
+
+  古建筑。
+
+- **门票**
+
+  免费。
+
+- **交通**
+
+  从石家庄出发，54分钟，48.2公里，途经：京深线、青银高速。
+
+  ![image](Pictures/Bailinchansi/Map.png)
+
+  从保定市出发，2小时5分钟，167.7公里。推荐从石家庄出发。
+
+- **景色**
+
+  ![image](Pictures/Bailinchansi/01.jpg)
+
+  ![image](Pictures/Bailinchansi/02.jpg)
+
+  ![image](Pictures/Bailinchansi/03.jpg)
+
+  ![image](Pictures/Bailinchansi/04.jpg)
+
+  ![image](Pictures/Bailinchansi/05.jpg)
+
+  ![image](Pictures/Bailinchansi/06.jpg)
+
+  ![image](Pictures/Bailinchansi/07.jpg)
+
+  ![image](Pictures/Bailinchansi/08.jpg)
+
+  ![image](Pictures/Bailinchansi/09.jpg)
+
+  ![image](Pictures/Bailinchansi/10.jpg)
+
+  ![image](Pictures/Bailinchansi/11.jpg)
+
+  ![image](Pictures/Bailinchansi/12.jpg)
+
+  ![image](Pictures/Bailinchansi/13.jpg)
+
+### 天桂山风景区
+
+- **简介**
+
+  天桂山，位于河北省会石家庄市西北90公里处的平山县境内。是我国北方著名的山岳古刹型风景名胜区，2001年荣膺国家AAAA级旅游区，2002年被国务院审定为国家重点风景名胜区，2003年被国家旅游局和共青团中央授予“全国青年文明号”单位。
+
+  景区总面积132．5平方公里。境内奇峰突起，怪石林立，洞泉遍布，林繁花茂，云环雾绕，古刹重重，既有雄秀交融的天然风光，又有皇家园林的高贵气韵和道家仙山的庄严气势及神秘色彩，俗有“皇家道院”之称，“北方桂林”之誉，为我国名山大川中一朵瑰丽的奇苑。
+
+- **类别**
+
+  山峰。
+
+- **门票**
+
+  65元。
+
+- **交通**
+
+  从石家庄出发，1小时44分钟，93.4公里，途经：西柏坡高速、京昆高速。
+
+  ![image](Pictures/Tianguishan/Map.png)
+
+- **景色**
+
+  ![image](Pictures/Tianguishan/01.jpg)
+
+  ![image](Pictures/Tianguishan/02.jpg)
+
+  ![image](Pictures/Tianguishan/03.jpg)
+
+  ![image](Pictures/Tianguishan/04.jpg)
+
+  ![image](Pictures/Tianguishan/05.jpg)
+
+  ![image](Pictures/Tianguishan/06.jpg)
+
+  ![image](Pictures/Tianguishan/07.jpg)
+
+  ![image](Pictures/Tianguishan/08.jpg)
+
+  ![image](Pictures/Tianguishan/09.jpg)
+
+  ![image](Pictures/Tianguishan/10.jpg)
+
+  ![image](Pictures/Tianguishan/11.jpg)
+
+  ![image](Pictures/Tianguishan/12.jpg)
+
+  ![image](Pictures/Tianguishan/13.jpg)
+
+  ![image](Pictures/Tianguishan/14.jpg)
+
+  ![image](Pictures/Tianguishan/15.jpg)
+
+  ![image](Pictures/Tianguishan/16.jpg)
+
+  ![image](Pictures/Tianguishan/17.jpg)
+
 ### 新景点
 
 - **简介**
